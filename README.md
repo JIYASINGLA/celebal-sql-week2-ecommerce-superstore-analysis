@@ -11,8 +11,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 
 ## Tools & Technologies
-- MySQL / PostgreSQL
-- SQL Workbench / MySQL Workbench
+- MySQL Workbench
 - Git & GitHub
 
 
