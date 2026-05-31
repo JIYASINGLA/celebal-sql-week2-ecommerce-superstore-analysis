@@ -9,9 +9,6 @@ The analysis is performed on the Superstore Sales Dataset available on Kaggle:
 
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-Additional reference material provided through Celebal LMS:
-https://celebaltech.sharepoint.com/:w:/s/Celebal-LMS/IQDQ_Co-E08_RZo3eKklxGR-AQ09RkM5df72wSBZjaL9LYc?e=04TLA8
-
 
 ## Tools & Technologies
 - MySQL / PostgreSQL
